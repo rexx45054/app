@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Market_Mate/static/css/main.210141be.css",
+    "main.js": "/Market_Mate/static/js/main.2eaef04c.js",
+    "index.html": "/Market_Mate/index.html",
+    "main.210141be.css.map": "/Market_Mate/static/css/main.210141be.css.map",
+    "main.2eaef04c.js.map": "/Market_Mate/static/js/main.2eaef04c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.210141be.css",
+    "static/js/main.2eaef04c.js"
+  ]
+}
